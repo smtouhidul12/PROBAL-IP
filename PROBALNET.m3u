@@ -1,4 +1,462 @@
 #EXTM3U
+
+#EXTM3U
+#EXTINF:-1 group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Jio Cricket English HD
+http://iptv.mirrorace.net/?channelid=430
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
+http://iptv.mirrorace.net/?channelid=144
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
+http://iptv.mirrorace.net/?channelid=291
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
+http://iptv.mirrorace.net/?channelid=167
+#EXTINF:-1 group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",Sony Max HD
+http://iptv.mirrorace.net/?channelid=476
+#EXTINF:-1 group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HBO_HD.png",HBO HD
+http://iptv.mirrorace.net/?channelid=833
+#EXTINF:-1 group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
+http://iptv.mirrorace.net/?channelid=165
+#EXTINF:-1 group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",Sony Six HD
+http://iptv.mirrorace.net/?channelid=155
+#EXTINF:-1 group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Ten 1 HD
+http://iptv.mirrorace.net/?channelid=162
+#EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
+http://iptv.mirrorace.net/?channelid=173
+#EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Marathi.png",BBC Marathi
+http://iptv.mirrorace.net/?channelid=1155
+#EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png",ABP News India
+http://iptv.mirrorace.net/?channelid=177
+#EXTINF:-1 group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",Ten 2 HD
+http://iptv.mirrorace.net/?channelid=891
+#EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png",CNN NEWS 18
+http://iptv.mirrorace.net/?channelid=492
+#EXTINF:-1 group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",MTV HD Plus
+http://iptv.mirrorace.net/?channelid=1145
+#EXTINF:-1 group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV Beats HD
+http://iptv.mirrorace.net/?channelid=753
+#EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png",Republic TV
+http://iptv.mirrorace.net/?channelid=858
+#EXTINF:-1 group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png",Mastiii
+http://iptv.mirrorace.net/?channelid=584
+#EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png",ABP Majha
+http://iptv.mirrorace.net/?channelid=612
+#EXTINF:-1 group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick Hindi
+http://iptv.mirrorace.net/?channelid=545
+#EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Karnataka.png",TV9 Karnataka
+http://iptv.mirrorace.net/?channelid=619
+#EXTINF:-1 group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",Pogo Hindi
+http://iptv.mirrorace.net/?channelid=559
+#EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png",Polimer News
+http://iptv.mirrorace.net/?channelid=636
+#EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png",TV9 Telugu News
+http://iptv.mirrorace.net/?channelid=618
+#EXTINF:-1 group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
+http://iptv.mirrorace.net/?channelid=816
+#EXTINF:-1 group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png",Discovery HD World
+http://iptv.mirrorace.net/?channelid=463
+#EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png",ABP Ananda
+http://iptv.mirrorace.net/?channelid=672
+#EXTINF:-1 group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
+http://iptv.mirrorace.net/?channelid=821
+#EXTINF:-1 group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png",History TV18 HD
+http://iptv.mirrorace.net/?channelid=146
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png",TLC HD
+http://iptv.mirrorace.net/?channelid=479
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png",Food Food
+http://iptv.mirrorace.net/?channelid=561
+#EXTINF:-1 group-title="Business" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png",Zee Business
+http://iptv.mirrorace.net/?channelid=657
+#EXTINF:-1 group-title="Business" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png",CNBC Tv18 Prime HD
+http://iptv.mirrorace.net/?channelid=143
+#EXTINF:-1 group-title="Business" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png",CNBC Awaaz
+http://iptv.mirrorace.net/?channelid=190
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prathana_TV.png",Prathana TV
+http://iptv.mirrorace.net/?channelid=595
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png",Aastha
+http://iptv.mirrorace.net/?channelid=175
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Bhajan.png",Aastha Bhajan
+http://iptv.mirrorace.net/?channelid=594
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskar.png",Sanskar
+http://iptv.mirrorace.net/?channelid=288
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Millionlights.png",Millionlights
+http://iptv.mirrorace.net/?channelid=968
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Science.png",India Science
+http://iptv.mirrorace.net/?channelid=1433
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_01.png",Swayam Prabha 01
+http://iptv.mirrorace.net/?channelid=980
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_02.png",Swayam Prabha 02
+http://iptv.mirrorace.net/?channelid=981
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_03.png",Swayam Prabha 03
+http://iptv.mirrorace.net/?channelid=982
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",Sony SAB
+http://iptv.mirrorace.net/?channelid=154
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",And TV HD
+http://iptv.mirrorace.net/?channelid=472
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Exclusive.png",Jio Exclusive HD
+http://iptv.mirrorace.net/?channelid=866
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png",Rishtey
+http://iptv.mirrorace.net/?channelid=279
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol
+http://iptv.mirrorace.net/?channelid=473
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",Sony Pal
+http://iptv.mirrorace.net/?channelid=474
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
+http://iptv.mirrorace.net/?channelid=471
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png",Zee Marathi
+http://iptv.mirrorace.net/?channelid=445
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png",Colors Marathi HD
+http://iptv.mirrorace.net/?channelid=755
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png",Colors Kannada HD
+http://iptv.mirrorace.net/?channelid=757
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada.png",Zee Kannada
+http://iptv.mirrorace.net/?channelid=689
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png",Comedy Central HD
+http://iptv.mirrorace.net/?channelid=1157
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png",Zee Telugu
+http://iptv.mirrorace.net/?channelid=638
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",Zee Tamil
+http://iptv.mirrorace.net/?channelid=628
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png",Colors Gujarati
+http://iptv.mirrorace.net/?channelid=196
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla
+http://iptv.mirrorace.net/?channelid=625
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png",Colors Bengali HD
+http://iptv.mirrorace.net/?channelid=756
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png",Epic
+http://iptv.mirrorace.net/?channelid=481
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",Colors Infinity HD
+http://iptv.mirrorace.net/?channelid=1158
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png",Zee Yuva
+http://iptv.mirrorace.net/?channelid=414
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi.png",PTC Punjabi
+http://iptv.mirrorace.net/?channelid=1171
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG",Investigation Discovery
+http://iptv.mirrorace.net/?channelid=527
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png",DD India
+http://iptv.mirrorace.net/?channelid=528
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png",DD National
+http://iptv.mirrorace.net/?channelid=202
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",Dabangg
+http://iptv.mirrorace.net/?channelid=532
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png",Colors Tamil HD
+http://iptv.mirrorace.net/?channelid=429
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Madhya_Pradesh.png",DD Madhya Pradesh
+http://iptv.mirrorace.net/?channelid=536
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajasthan_Jaipur.png",DD Rajasthan (Jaipur)
+http://iptv.mirrorace.net/?channelid=538
+#EXTINF:-1 group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",Colors Cineplex
+http://iptv.mirrorace.net/?channelid=482
+#EXTINF:-1 group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix HD
+http://iptv.mirrorace.net/?channelid=762
+#EXTINF:-1 group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png",Sony Max SD
+http://iptv.mirrorace.net/?channelid=289
+#EXTINF:-1 group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/WB.png",WB
+http://iptv.mirrorace.net/?channelid=834
+#EXTINF:-1 group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",Sony MAX2
+http://iptv.mirrorace.net/?channelid=483
+#EXTINF:-1 group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD
+http://iptv.mirrorace.net/?channelid=185
+#EXTINF:-1 group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png",Zee Cinema
+http://iptv.mirrorace.net/?channelid=484
+#EXTINF:-1 group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png",B4U Movies
+http://iptv.mirrorace.net/?channelid=182
+#EXTINF:-1 group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png",Zee Bollywood
+http://iptv.mirrorace.net/?channelid=487
+#EXTINF:-1 group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png",Bhojpuri Cinema
+http://iptv.mirrorace.net/?channelid=486
+#EXTINF:-1 group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png",Enterr 10
+http://iptv.mirrorace.net/?channelid=485
+#EXTINF:-1 group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action
+http://iptv.mirrorace.net/?channelid=488
+#EXTINF:-1 group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png",Zee Cinemalu
+http://iptv.mirrorace.net/?channelid=413
+#EXTINF:-1 group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",Zee Anmol Cinema
+http://iptv.mirrorace.net/?channelid=415
+#EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png",News 18 India
+http://iptv.mirrorace.net/?channelid=231
+#EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png",India TV
+http://iptv.mirrorace.net/?channelid=235
+#EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",Zee News
+http://iptv.mirrorace.net/?channelid=504
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png",ETV Telugu
+http://iptv.mirrorace.net/?channelid=629
+#EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Public_TV.png",Public TV
+http://iptv.mirrorace.net/?channelid=778
+#EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/24_Ghanta_TV.png",24 Ghanta TV
+http://iptv.mirrorace.net/?channelid=464
+#EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sakshi_tv.png",Sakshi tv
+http://iptv.mirrorace.net/?channelid=632
+#EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png",NTV
+http://iptv.mirrorace.net/?channelid=646
+#EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png",Thanthi TV
+http://iptv.mirrorace.net/?channelid=830
+#EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png",News 24
+http://iptv.mirrorace.net/?channelid=501
+#EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png",TV9 Maharashtra
+http://iptv.mirrorace.net/?channelid=617
+#EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BTV.png",BTV
+http://iptv.mirrorace.net/?channelid=938
+#EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png",Zee 24 Taas
+http://iptv.mirrorace.net/?channelid=442
+#EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Newslive.png",Newslive
+http://iptv.mirrorace.net/?channelid=613
+#EXTINF:-1 group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Ten 3 HD
+http://iptv.mirrorace.net/?channelid=892
+#EXTINF:-1 group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png",Eurosport HD
+http://iptv.mirrorace.net/?channelid=875
+#EXTINF:-1 group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png",Jio Football HD
+http://iptv.mirrorace.net/?channelid=1156
+#EXTINF:-1 group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_1_HD.png",Jio Cricket 1 HD
+http://iptv.mirrorace.net/?channelid=1160
+#EXTINF:-1 group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png",Jio Football 1 HD
+http://iptv.mirrorace.net/?channelid=1165
+#EXTINF:-1 group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_2.png",Jio Football 2 HD
+http://iptv.mirrorace.net/?channelid=1167
+#EXTINF:-1 group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png",Ten 1
+http://iptv.mirrorace.net/?channelid=514
+#EXTINF:-1 group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png",Ten 2
+http://iptv.mirrorace.net/?channelid=523
+#EXTINF:-1 group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png",Ten 3
+http://iptv.mirrorace.net/?channelid=524
+#EXTINF:-1 group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png",Sony Six SD
+http://iptv.mirrorace.net/?channelid=525
+#EXTINF:-1 group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png",Zing
+http://iptv.mirrorace.net/?channelid=585
+#EXTINF:-1 group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.jpg",9XM
+http://iptv.mirrorace.net/?channelid=587
+#EXTINF:-1 group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png",E 24
+http://iptv.mirrorace.net/?channelid=591
+#EXTINF:-1 group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png",B4U Music
+http://iptv.mirrorace.net/?channelid=183
+#EXTINF:-1 group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tarang_Music.png",Tarang Music
+http://iptv.mirrorace.net/?channelid=751
+#EXTINF:-1 group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png",MTV
+http://iptv.mirrorace.net/?channelid=248
+#EXTINF:-1 group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png",9X Jalwa
+http://iptv.mirrorace.net/?channelid=440
+#EXTINF:-1 group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Public_Music.png",Public Music
+http://iptv.mirrorace.net/?channelid=773
+#EXTINF:-1 group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png",Jaya Max
+http://iptv.mirrorace.net/?channelid=420
+#EXTINF:-1 group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png",Sangeet Bhojpuri
+http://iptv.mirrorace.net/?channelid=741
+#EXTINF:-1 group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Music.png",PTC Music
+http://iptv.mirrorace.net/?channelid=1189
+#EXTINF:-1 group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png",Sangeet Bangla
+http://iptv.mirrorace.net/?channelid=740
+#EXTINF:-1 group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/etc.png",Zee etc
+http://iptv.mirrorace.net/?channelid=589
+#EXTINF:-1 group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png",Sonic Hindi
+http://iptv.mirrorace.net/?channelid=815
+#EXTINF:-1 group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",Sony Yay Hindi
+http://iptv.mirrorace.net/?channelid=872
+#EXTINF:-1 group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png",Nickelodeon
+http://iptv.mirrorace.net/?channelid=547
+#EXTINF:-1 group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png",Nick Tamil
+http://iptv.mirrorace.net/?channelid=546
+#EXTINF:-1 group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png",Pogo Tamil
+http://iptv.mirrorace.net/?channelid=542
+#EXTINF:-1 group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png",CN HD+ English
+http://iptv.mirrorace.net/?channelid=1079
+#EXTINF:-1 group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png",Cartoon Network Tamil
+http://iptv.mirrorace.net/?channelid=817
+#EXTINF:-1 group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png",Nick Telugu
+http://iptv.mirrorace.net/?channelid=543
+#EXTINF:-1 group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",Discovery Kids 2
+http://iptv.mirrorace.net/?channelid=554
+#EXTINF:-1 group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png",Nick Junior
+http://iptv.mirrorace.net/?channelid=544
+#EXTINF:-1 group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",Animal Planet HD World
+http://iptv.mirrorace.net/?channelid=286
+#EXTINF:-1 group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png",Travel XP HD
+http://iptv.mirrorace.net/?channelid=164
+#EXTINF:-1 group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png",Animal Planet Hindi
+http://iptv.mirrorace.net/?channelid=566
+#EXTINF:-1 group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png",Discovery Channel Hindi
+http://iptv.mirrorace.net/?channelid=575
+#EXTINF:-1 group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png",History TV18 HD Hindi
+http://iptv.mirrorace.net/?channelid=578
+#EXTINF:-1 group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png",Discovery Science
+http://iptv.mirrorace.net/?channelid=568
+#EXTINF:-1 group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Events.png",Jio Events HD
+http://iptv.mirrorace.net/?channelid=871
+#EXTINF:-1 group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png",Discovery Channel Telugu
+http://iptv.mirrorace.net/?channelid=576
+#EXTINF:-1 group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png",D Tamil
+http://iptv.mirrorace.net/?channelid=569
+#EXTINF:-1 group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png",History TV18 HD Tamil
+http://iptv.mirrorace.net/?channelid=579
+#EXTINF:-1 group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png",History TV18 HD Telugu
+http://iptv.mirrorace.net/?channelid=577
+#EXTINF:-1 group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png",Animal Planet English
+http://iptv.mirrorace.net/?channelid=567
+#EXTINF:-1 group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Samara_News.png",Samara News
+http://iptv.mirrorace.net/?channelid=1073
+#EXTINF:-1 group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png",Discovery Channel Bengali
+http://iptv.mirrorace.net/?channelid=573
+#EXTINF:-1 group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png",Travel XP Tamil
+http://iptv.mirrorace.net/?channelid=814
+#EXTINF:-1 group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png",Sony BBC Earth HD Telugu
+http://iptv.mirrorace.net/?channelid=854
+#EXTINF:-1 group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png",Discovery
+http://iptv.mirrorace.net/?channelid=242
+#EXTINF:-1 group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png",Sony BBC Earth HD Tamil
+http://iptv.mirrorace.net/?channelid=853
+#EXTINF:-1 group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ayush_TV.png",Ayush TV
+http://iptv.mirrorace.net/?channelid=1075
+#EXTINF:-1 group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Desi_Channel.png",Desi Channel
+http://iptv.mirrorace.net/?channelid=906
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png",Travel XP HD Hindi
+http://iptv.mirrorace.net/?channelid=562
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_English.png",TLC English
+http://iptv.mirrorace.net/?channelid=574
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png",ETV Abhiruchi
+http://iptv.mirrorace.net/?channelid=565
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png",TLC Hindi
+http://iptv.mirrorace.net/?channelid=571
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhguru_Television.png",Sadhguru Television HD
+http://iptv.mirrorace.net/?channelid=1201
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kaumudy_TV.png",Kaumudy TV
+http://iptv.mirrorace.net/?channelid=563
+#EXTINF:-1 group-title="Business" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png",CNBC Tv 18
+http://iptv.mirrorace.net/?channelid=489
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_TV.png",Bhakti TV
+http://iptv.mirrorace.net/?channelid=776
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Sankara.png",Sri Sankara
+http://iptv.mirrorace.net/?channelid=829
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SaiTV.png",Sai TV
+http://iptv.mirrorace.net/?channelid=937
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Peace_of_Mind.png",Peace of Mind
+http://iptv.mirrorace.net/?channelid=794
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Shraddha.png",mh1 Shraddha
+http://iptv.mirrorace.net/?channelid=609
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Lakshya_TV.png",Lakshya TV
+http://iptv.mirrorace.net/?channelid=886
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png",Sri Venkateshwar Bhakti
+http://iptv.mirrorace.net/?channelid=598
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Divya_TV.png",Divya TV
+http://iptv.mirrorace.net/?channelid=801
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Paras_tv.png",Paras tv
+http://iptv.mirrorace.net/?channelid=602
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna.png",Sadhna
+http://iptv.mirrorace.net/?channelid=593
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Satsang_TV.png",Satsang TV
+http://iptv.mirrorace.net/?channelid=597
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Angel_TV_HD.png",Angel TV HD
+http://iptv.mirrorace.net/?channelid=835
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png",CVR OM Spiritual
+http://iptv.mirrorace.net/?channelid=772
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aradhana_TV.png",Aradhana TV
+http://iptv.mirrorace.net/?channelid=777
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jinvani_TV.png",Jinvani TV
+http://iptv.mirrorace.net/?channelid=596
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Simran.png",PTC Simran
+http://iptv.mirrorace.net/?channelid=1191
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shubh_TV.png",Shubh TV
+http://iptv.mirrorace.net/?channelid=828
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sai_Leela.png",Sai Leela
+http://iptv.mirrorace.net/?channelid=1407
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hindu_Dharmam.png",Hindu Dharmam
+http://iptv.mirrorace.net/?channelid=955
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Subhavartha_TV.png",Subhavartha TV
+http://iptv.mirrorace.net/?channelid=607
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Divya_Vani.png",Divya Vani
+http://iptv.mirrorace.net/?channelid=934
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Arihant_TV.png",Arihant TV
+http://iptv.mirrorace.net/?channelid=466
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rujumargam_TV.png",Mercy TV
+http://iptv.mirrorace.net/?channelid=924
+#EXTINF:-1 group-title="Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Calvary.png",Calvary
+http://iptv.mirrorace.net/?channelid=977
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_04.png",Swayam Prabha 04
+http://iptv.mirrorace.net/?channelid=984
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_05.png",Swayam Prabha 05
+http://iptv.mirrorace.net/?channelid=986
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_06.png",Swayam Prabha 06
+http://iptv.mirrorace.net/?channelid=987
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_07.png",Swayam Prabha 07
+http://iptv.mirrorace.net/?channelid=985
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_08.png",Swayam Prabha 08
+http://iptv.mirrorace.net/?channelid=983
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_09.png",Swayam Prabha 09
+http://iptv.mirrorace.net/?channelid=988
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_10.png",Swayam Prabha 10
+http://iptv.mirrorace.net/?channelid=989
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_11.png",Swayam Prabha 11
+http://iptv.mirrorace.net/?channelid=990
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_12.png",Swayam Prabha 12
+http://iptv.mirrorace.net/?channelid=991
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_13.png",Swayam Prabha 13
+http://iptv.mirrorace.net/?channelid=992
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_14.png",Swayam Prabha 14
+http://iptv.mirrorace.net/?channelid=993
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_15.png",Swayam Prabha 15
+http://iptv.mirrorace.net/?channelid=995
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_16.png",Swayam Prabha 16
+http://iptv.mirrorace.net/?channelid=994
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_17.png",Swayam Prabha 17
+http://iptv.mirrorace.net/?channelid=996
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_18.png",Swayam Prabha 18
+http://iptv.mirrorace.net/?channelid=999
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_19.png",Swayam Prabha 19
+http://iptv.mirrorace.net/?channelid=401
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_20.png",Swayam Prabha 20
+http://iptv.mirrorace.net/?channelid=403
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_21.png",Swayam Prabha 21
+http://iptv.mirrorace.net/?channelid=997
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_22.png",Swayam Prabha 22
+http://iptv.mirrorace.net/?channelid=998
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_1.png",e - Vidya 01
+http://iptv.mirrorace.net/?channelid=400
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_2.png",e - Vidya 02
+http://iptv.mirrorace.net/?channelid=402
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_3.png",e - Vidya 03
+http://iptv.mirrorace.net/?channelid=405
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_4.png",e - Vidya 04
+http://iptv.mirrorace.net/?channelid=406
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_5.png",e - Vidya 05
+http://iptv.mirrorace.net/?channelid=407
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_6.png",e - Vidya 06
+http://iptv.mirrorace.net/?channelid=408
+#EXTINF:-1 group-title="Education" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_7.png",e - Vidya 07
+http://iptv.mirrorace.net/?channelid=404
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Pariwar.png",Raj Pariwar
+http://iptv.mirrorace.net/?channelid=533
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bihar.png",DD Bihar
+http://iptv.mirrorace.net/?channelid=539
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Uttar_Pradesh.png",DD Uttar Pradesh
+http://iptv.mirrorace.net/?channelid=540
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png",Jaya TV HD
+http://iptv.mirrorace.net/?channelid=419
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazavali_Manorama_HD.png",Mazavali Manorama HD
+http://iptv.mirrorace.net/?channelid=844
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MK_TV.png",MK TV
+http://iptv.mirrorace.net/?channelid=847
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png",Colors Super
+http://iptv.mirrorace.net/?channelid=785
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png",Vendhar TV
+http://iptv.mirrorace.net/?channelid=857
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sanjha_TV.png",Sanjha TV
+http://iptv.mirrorace.net/?channelid=904
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Anjan_TV.png",Anjan TV
+http://iptv.mirrorace.net/?channelid=919
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/GarvPunjabi.png",Garv Punjabi
+http://iptv.mirrorace.net/?channelid=951
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="BTV  BD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="BANGLA.",BTV  BD
 http://bdiptv.myftp.biz:25461/live/nawtest/121/10507.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="BANGLA.",BTV World
@@ -1155,6 +1613,12 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 
 
+  
+  
+  
+  
+  
+  
   
  ###########   MBC GROUP ##########
 
