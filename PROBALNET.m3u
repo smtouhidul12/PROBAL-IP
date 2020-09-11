@@ -1,6 +1,6 @@
 #EXTM3U
-
-#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BTV  BD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="BANGLA.",BTV  BD
+http://bdiptv.myftp.biz:25461/live/nawtest/121/10507.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Jio Cricket English HD
 http://iptv.mirrorace.net/?channelid=430
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
@@ -441,15 +441,6 @@ http://iptv.mirrorace.net/?channelid=904
 http://iptv.mirrorace.net/?channelid=919
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/GarvPunjabi.png",Garv Punjabi
 http://iptv.mirrorace.net/?channelid=951
-
-
-
-
-
-
-
-
-
 
 
 
